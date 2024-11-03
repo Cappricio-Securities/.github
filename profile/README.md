@@ -25,3 +25,11 @@ Our tools are mostly built using Python and are published on PyPI, making instal
 # Connect with Us 🌐
 - Website: [Cappricio Securities](https://cappriciosec.com)
 - Email: contact@cappriciosec.com
+
+## Tools Developer/Author
+
+- [@karthithehacker](https://github.com/karthi-the-hacker)
+
+## 🚀 About Me
+
+I'm a Cyber Security Researcher...
